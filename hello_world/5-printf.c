@@ -1,3 +1,6 @@
+/**
+ * a comment for the sake of commenting that will hopefully fix the error.
+ */
 #include <stdio.h>
 /**
  * main - prints statement
