@@ -7,7 +7,7 @@
 /**
  * main - Prints the size of various types based on
  *	the computer on which is compiled and run
- * return: 0
+ * Return: 0
  */
 int main(void)
 {
