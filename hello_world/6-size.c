@@ -2,11 +2,10 @@
  * File: 6-size.c
  * Auth: Kelly Pellas
  */
-
 #include <stdio.h>
-
 /**
- * main - Prints the size of various types based on the computer on which is compiled and run
+ * main - Prints the size of various types based on 
+ * the computer on which is compiled and run
  * return: 0 
  */
 int main(void)
