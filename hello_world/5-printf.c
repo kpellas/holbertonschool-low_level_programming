@@ -1,13 +1,19 @@
-/**
- * a comment for the sake of commenting that will hopefully fix the error.
+/*
+ * File: 5-printf.c
+ * Auth: Kelly Pellas
  */
+
 #include <stdio.h>
+
 /**
- * main - prints statement
- * return: 0
+ * main - Prints "with proper grammar, but the outcome is
+ *                a piece of art," followed by a new line.
+ *
+ * Return: 0
  */
 int main(void)
 {
 	printf("with proper grammar, but the outcome is a piece of art,\n");
+
 	return (0);
 }
