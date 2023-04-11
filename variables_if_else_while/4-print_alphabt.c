@@ -7,7 +7,7 @@
 */
 int main(void)
 {
-	char c, C;
+	char c;
 
 	for (c = 'a'; c <= 'z'; c++)
 	{
