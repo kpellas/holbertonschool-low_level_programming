@@ -9,7 +9,7 @@ int main(void)
 
 	char ch = 0x00;
 	
-	while (ch <= 0xff){
+	for (ch, ch < 0xff, ch++)
 	}
 		putchar(ch + 01);
 		ch++;
